@@ -1,1 +1,1 @@
-# [musicons](https://pixelpaper.github.com/musicons)
+# [musicons](https://pixelpaper.github.io/musicons)
